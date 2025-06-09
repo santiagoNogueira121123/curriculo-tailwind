@@ -1,6 +1,3 @@
 # curriculo HTML
 
-## projeto feito para aula de dev. web ##
-
-
-### o objetivo da aula era fazer um currículo com HTML e CSS e deixá-lo o mais bonito possível ###
+### o objetivo deste projeto era fazer um currículo em html e estiliza-lo usando tailwind css ###
